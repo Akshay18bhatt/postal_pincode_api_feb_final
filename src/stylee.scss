@@ -42,7 +42,7 @@
     }
     button{
         font-size: 1.2rem;
-        width: 15%;
+        width: 20%;
         background-color: black;
         color:#fff;
         padding: 5px;
@@ -59,6 +59,7 @@
 
 .postCard-container{
     padding: 10px;
+    margin-bottom: 40px;
     .pincodeList{
         display: flex;
         gap: 30px;
@@ -92,7 +93,7 @@
 }
 .postCard{
     width: 450px;
-    height: 150px;
+    height: 160px;
     padding: 10px;
     border: 1px solid black;
 
